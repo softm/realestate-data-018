@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "repository": "softm/realestate-data-018",
+  "checkedAt": "2026-11-10T11:07:25.463745+00:00",
+  "apiKeyConfigured": true,
+  "apiAccessVerified": false,
+  "pagesConfigured": null,
+  "pagesBuildType": null,
+  "pagesCheckError": "HTTP_404",
+  "note": "Secret presence only; not an API permission or complete-collection claim."
+}
